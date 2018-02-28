@@ -84,4 +84,8 @@ MonoBehaviour:
   - ShieldOnHit
   - CallPlayImpact
   - EndGame
+  - CallGameBeginInTime
+  - PlayerFinishedLoading
+  - CallGameBeginAtTime
+  - CallStartGame
   DisableAutoOpenWizard: 1
